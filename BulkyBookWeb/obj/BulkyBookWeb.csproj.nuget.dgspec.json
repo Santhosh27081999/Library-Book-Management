@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
+    "D:\\Github\\BookStore\\Library-Book-Management\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "D:\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
+    "D:\\Github\\BookStore\\Library-Book-Management\\BulkyBookWeb\\BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "D:\\Github\\BookStore\\Library-Book-Management\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "projectName": "BulkyBookWeb",
-        "projectPath": "D:\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectPath": "D:\\Github\\BookStore\\Library-Book-Management\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "packagesPath": "C:\\Users\\SANTHOSH\\.nuget\\packages\\",
-        "outputPath": "D:\\BulkyBook\\BulkyBookWeb\\obj\\",
+        "outputPath": "D:\\Github\\BookStore\\Library-Book-Management\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
